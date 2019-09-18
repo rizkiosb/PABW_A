@@ -1,0 +1,59 @@
+.body {
+    background: rgba(139, 208, 211, 0.822);
+    margin: -5px;
+    /* width: 100%; */
+}
+
+.body .page {
+    background: orangered;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body .page_menu {
+    background: antiquewhite;
+    padding: 2px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+
+ul {
+    padding-left: 10px;
+}
+
+a {
+    padding: 10px;
+}
+
+li {
+    padding-left: 5px;
+    margin-left: 30px;
+}
+
+.clear {
+    clear: both;
+}
+
+.badan {
+    height: 450px;
+}
+
+.body .badan .sidebar {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+.body .badan .content {
+    height: 100%;
+    width: 75%;
+    background-color: greenyellow;
+    float: left;
+}
+
+.body .badan .footer {
+    padding: 10px;
+    width: 100%;
+    background-color: blue;
+    position: fixed;
+}
