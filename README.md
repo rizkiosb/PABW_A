@@ -1,2 +1,2 @@
-# PBW_A
+# PABW_A
 kelas matakuliah PABW
